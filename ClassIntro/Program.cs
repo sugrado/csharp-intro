@@ -9,29 +9,29 @@ namespace ClassIntro
             string adi = "Gorkem";
             int yas = 18;
 
-            Kurs course1 = new Kurs();
+            Course course1 = new Course();
             course1.CourseName = "C#";
             course1.Instructor = "Gorkem Ridvan";
             course1.WatchingRate = 36;
 
-            Kurs course2 = new Kurs();
+            Course course2 = new Course();
             course2.CourseName = "Java";
             course2.Instructor = "Name0 Surname0";
             course2.WatchingRate = 78;
 
-            Kurs course3 = new Kurs();
+            Course course3 = new Course();
             course3.CourseName = "Python";
             course3.Instructor = "Name1 Surname1";
             course3.WatchingRate = 78;
 
-            Kurs course4 = new Kurs();
+            Course course4 = new Course();
             course4.CourseName = "C++";
             course4.Instructor = "Name2 Surname2";
             course4.WatchingRate = 100;
 
             //Console.WriteLine(course.CourseName + " : " + course1.Instructor);
 
-            Kurs[] kurslar = new Kurs[] { course1, course2, course3, course4 };
+            Course[] kurslar = new Course[] { course1, course2, course3, course4 };
 
             foreach (var kurs in kurslar)
             {
@@ -40,7 +40,7 @@ namespace ClassIntro
         }
     }
 
-    class Kurs
+    class Course
     {
         public string CourseName { get; set; }
         public string Instructor { get; set; }
