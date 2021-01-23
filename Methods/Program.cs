@@ -33,9 +33,9 @@ namespace Methods
 
             //Useful Example
             /*
-            sepetManager.Add2("Armut", "Yesil armut", 12);
-            sepetManager.Add2("Elma", "Yesil elma", 12);
-            sepetManager.Add2("Karpuz", "Yesil karpuz", 12);
+            sepetManager.Add2("Birne", "Yellow Birne", 12);
+            sepetManager.Add2("Apple", "Green Apple, 12);
+            sepetManager.Add2("Melon", "Red Melon", 12);
             */
         }
     }

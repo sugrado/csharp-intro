@@ -7,9 +7,9 @@ namespace Methods
     class SepetManager
     {
         //naming convention
-        public void Add(Product urun)
+        public void Add(Product prod)
         {
-            Console.WriteLine("Congratulations. Product added to cart: " + urun.Name);
+            Console.WriteLine("Congratulations. Product added to cart: " + prod.Name);
         }
 
         //Useful Example
