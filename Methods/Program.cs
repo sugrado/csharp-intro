@@ -31,7 +31,7 @@ namespace Methods
             sepetManager.Add(prod1);
             sepetManager.Add(prod2);
 
-            //Useless Example
+            //Useless Example.
             /*
             sepetManager.Add2("Birne", "Yellow Birne", 12);
             sepetManager.Add2("Apple", "Green Apple, 12);
