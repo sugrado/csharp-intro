@@ -12,7 +12,7 @@ namespace Methods
             Console.WriteLine("Congratulations. Product added to cart: " + prod.Name);
         }
 
-        //Useful Example
+        //Useless Example
         /*
         public void Add2(string prodName, string desc, double price)
         {
