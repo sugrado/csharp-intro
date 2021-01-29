@@ -25,7 +25,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP2", "OOP2\OOP2.csproj", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP3", "OOP3\OOP3.csproj", "{022D22D6-1599-4C2A-AEB8-1E630B7451D8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyDictionary", "MyDictionary\MyDictionary.csproj", "{EF720B29-275D-4410-AA66-CDFAE532433A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyDictionary", "MyDictionary\MyDictionary.csproj", "{EF720B29-275D-4410-AA66-CDFAE532433A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckerBoard", "CheckerBoard\CheckerBoard.csproj", "{B45373E5-0D28-40DB-98BD-31A3EC2B7EAC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +83,10 @@ Global
 		{EF720B29-275D-4410-AA66-CDFAE532433A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EF720B29-275D-4410-AA66-CDFAE532433A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EF720B29-275D-4410-AA66-CDFAE532433A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B45373E5-0D28-40DB-98BD-31A3EC2B7EAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B45373E5-0D28-40DB-98BD-31A3EC2B7EAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B45373E5-0D28-40DB-98BD-31A3EC2B7EAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B45373E5-0D28-40DB-98BD-31A3EC2B7EAC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
