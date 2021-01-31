@@ -20,7 +20,6 @@ namespace GameProject
              *  IdentityNumber = 12345678910
              */
             UserValidationService validationService = new UserValidationService();
-            GamerService gamerService = new GamerService(validationService);
 
             if (validationService.Validate(gamer1) == false)
             {
