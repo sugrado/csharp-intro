@@ -29,6 +29,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyDictionary", "MyDictionar
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckerBoard", "CheckerBoard\CheckerBoard.csproj", "{B45373E5-0D28-40DB-98BD-31A3EC2B7EAC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameProject", "GameProject\GameProject.csproj", "{90F685D2-2D46-4FA7-93EA-889FF6F68CBF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{B45373E5-0D28-40DB-98BD-31A3EC2B7EAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B45373E5-0D28-40DB-98BD-31A3EC2B7EAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B45373E5-0D28-40DB-98BD-31A3EC2B7EAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90F685D2-2D46-4FA7-93EA-889FF6F68CBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90F685D2-2D46-4FA7-93EA-889FF6F68CBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90F685D2-2D46-4FA7-93EA-889FF6F68CBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90F685D2-2D46-4FA7-93EA-889FF6F68CBF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
